@@ -1,4 +1,4 @@
-Pizza Sales Analysis – Application of SQL Skills (300 Words)
+# Pizza Sales Analysis – SQL 
 
 In the Pizza Sales Analysis project, I applied my SQL skills to extract meaningful insights from a large and unstructured sales dataset. The primary goal was to understand customer purchasing patterns, identify top-selling products, and analyze peak order timings. I began by cleaning and organizing the raw data using SQL queries to remove inconsistencies, standardize date formats, and ensure data accuracy. This step was crucial as it helped establish a reliable foundation for further analysis.
 
